@@ -1,6 +1,17 @@
 # ReactJS-GettingStarted
- Just dipping my finders into ReactJS, following the FCC tutorial videos
+ If you are following the "Learn React JS - Full Course for Beginners" from freeCodeCamp.org, and you don't have SCRIMBA subscription, I have provided you the simplest way to get started in the branch "bareBones-reactApp" so you can follow the tutorials.
 
+## What you need to do
+--------------------
+* Create a "my-app" directory with the following 4 files or the same name and contents:
+  * package.json
+  * package-lock.json
+  * src/index.js
+  * public/index.html
+* Open the "my-app" directory in your terminal and call `npm start`, and voilà!
+
+#### How did I create this
+--------------------
 * To create this repo, I started with a blank Github repo directory and then added a React .gitignore file to it, copied from [here](https://github.com/facebook/react/blob/master/.gitignore)
 * Then I followed [these steps](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app) create my first react act as shown below
 * Inside my GitHub repo directory, I opened it in the terminal and performed `npx create-react-app my-app`
